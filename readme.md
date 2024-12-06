@@ -1,7 +1,6 @@
 ## AI Powered Investment Advisor
-```
 Unlock smarter investing with our **AI-Powered Financial Advisor**! Stay ahead of the market with real-time news analysis, stock updates, and expert recommendations tailored to your goals. From **forecasting future trends** to optimizing your portfolio across stocks, mutual funds, gold, and more, our cutting-edge system delivers the best strategies for your unique needs. Powered by **advanced AI and attention models**, it simplifies complex decisions while maximizing returns. With an intuitive interface and secure deployment on **Azure**, investing has never been this easy or efficient. Start today and take control of your financial future—your perfect portfolio is just a click away!
-```
+
 ### Folder Structure
 ```
 financial-advisor-system/
