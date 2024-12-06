@@ -1,0 +1,6 @@
+/database
+kaggle.json
+config.ini
+/base_model
+**/__pycache__/
+/venv
