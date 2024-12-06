@@ -1,0 +1,6 @@
+loguru
+dataclasses
+chromadb
+pandas
+numpy
+transformers
